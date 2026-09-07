@@ -4,7 +4,7 @@
 Then underneath:
 
 > 🚀 Building backend projects  
-> 🌱 Learning Spring Boot & Rest APIs.
+> 🌱 Learning Spring Boot & Rest APIs.                                                                                                                             
 > 💼 Open to Java Backend / Full Stack opportunities  
 > 🏦 Building real-world applications with Java
 ## 🌐 Socials:
